@@ -29,7 +29,3 @@ connectDB().then(() => {
     console.log(`Server started on port: ${PORT}`);
   });
 });
-
-//KaleadGgbdMn7TS8
-//bandi200110
-//
